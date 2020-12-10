@@ -1,0 +1,4 @@
+a a a a |{a=4}
+a a a a cum cum acum|{a=4, acum=1, cum=2}
+dsds ds s d sd s dsds  sd s|{dsds=2, sd=2, s=3, d=1, ds=1}
+ade ee ee he he ee|{ee=3, ade=1, he=2}
